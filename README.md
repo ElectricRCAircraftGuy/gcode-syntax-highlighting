@@ -1,4 +1,4 @@
-## Update by Gabriel Staples on 20 Mar 2022: I'm going to make my own version of this, here: https://github.com/ElectricRCAircraftGuy/sublime_gcode. Look there for all figure contributions of mine for this.
+## Update by Gabriel Staples on 20 Mar 2022: I'm going to make my own version of this, here: https://github.com/ElectricRCAircraftGuy/sublime_gcode. Look there for all future contributions of mine for this.
 
 
 # G-code syntax highlighting for Sublime Text
