@@ -1,3 +1,6 @@
+**Update by Gabriel Staples on 20 Mar 2022: I'm going to make my own version of this, here: https://github.com/ElectricRCAircraftGuy/sublime_gcode. Look there for all figure contributions of mine for this.**
+
+
 # G-code syntax highlighting for Sublime Text
 Syntax Definition for Sublime Text that provides highlighting for G code (ISO 6983, DIN 66025, RS-274)
 
